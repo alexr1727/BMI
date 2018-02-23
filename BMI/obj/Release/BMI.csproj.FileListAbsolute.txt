@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\bin\Release\BMI.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\bin\Release\BMI.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\bin\Release\BMI.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Release\BMI.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Release\BMI.Form2.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Release\BMI.Form3.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Release\BMI.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Release\BMI.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Release\BMI.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Release\BMI.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Release\BMI.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\bin\Release\BMI.exe.manifest
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\bin\Release\BMI.application
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Release\BMI.exe.manifest
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Release\BMI.application
