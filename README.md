@@ -13,4 +13,22 @@ This program was created to increase efficiency for medical professional working
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![alt text](Screenshots/bmi-2.PNG)
